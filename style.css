@@ -297,7 +297,7 @@ section{
     width: 250px;
     height: 400px;
 
-    background-image: url(/assets/projects/vgnr/cover.png);
+    background-image: url(assets/projects/vgnr/cover.png);
     background-size: cover 100%;
 
     margin: 20px;
@@ -335,11 +335,11 @@ section{
 }
 
 .project:hover{
-    background-image: url(/assets/projects/vgnr/coverhover.png);
+    background-image: url(assets/projects/vgnr/coverhover.png);
 }
 
 .project-second{
-    background-image: url(/assets/projects/pkmns/cover.png);
+    background-image: url(assets/projects/pkmns/cover.png);
 }
 
 .project-second:hover{
@@ -347,35 +347,35 @@ section{
 }
 
 .project-third{
-    background-image: url(/assets/projects/ocr/cover.png);
+    background-image: url(assets/projects/ocr/cover.png);
 }
 
 .project-third:hover{
-    background-image: url(/assets/projects/ocr/hover.png);
+    background-image: url(assets/projects/ocr/hover.png);
 }
 
 .project-fourth{
-    background-image: url(/assets/projects/graph/cover.png);
+    background-image: url(assets/projects/graph/cover.png);
 }
 
 .project-fourth:hover{
-    background-image: url(/assets/projects/graph/hover.png);
+    background-image: url(assets/projects/graph/hover.png);
 }
 
 .project-fifth{
-    background-image: url(/assets/projects/ocr/backcover.png);
+    background-image: url(assets/projects/ocr/backcover.png);
 }
 
 .project-fifth:hover{
-    background-image: url(/assets/projects/ocr/backhover.png);
+    background-image: url(assets/projects/ocr/backhover.png);
 }
 
 .project-seo{
-    background-image: url(/assets/projects/ocr/seocover.png);
+    background-image: url(assets/projects/ocr/seocover.png);
 }
 
 .project-seo:hover{
-    background-image: url(/assets/projects/ocr/seohover.png);
+    background-image: url(assets/projects/ocr/seohover.png);
 }
 
 .modale{
